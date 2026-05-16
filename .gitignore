@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# C++ compiled files
+*.exe
+*.o
+*.out
+
+# VS Code settings (optional - remove this if you want to keep them)
+.vscode/
+
+# Windows junk files
+Thumbs.db
+desktop.ini
